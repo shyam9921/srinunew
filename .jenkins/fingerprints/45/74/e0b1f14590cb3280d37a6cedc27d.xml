@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-02-06 11:11:06.827 UTC</timestamp>
+  <md5sum>4574e0b1f14590cb3280d37a6cedc27d</md5sum>
+  <fileName>javax:javaee-api-7.0.jar</fileName>
+  <usages>
+    <entry>
+      <string>buil/SATHYA:DEVOPS</string>
+      <ranges>1-2</ranges>
+    </entry>
+    <entry>
+      <string>buil</string>
+      <ranges>1-2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

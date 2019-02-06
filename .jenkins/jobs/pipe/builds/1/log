@@ -1,0 +1,937 @@
+Started by user [8mha:////4DQe4EX8q1IsDjs80+eqsXKCvkciNwUCcuXVIxyrmIpmAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgYB/dLi1CL9sszijLxSS0sjQwA76R47xQAAAA==[0mvishnuvardhan
+Running in Durability level: MAX_SURVIVABILITY
+[8mha:////4J/EFAAhbG5UCZTyjBri30bVctWoZD0gfvSPbGki5nJSAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4F2CBC9IiJULOQdENzBiwMheWUBPXXnLCvxHiLPqThUHAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4HuFCE1NDNxNowXVn07VyL0wfWgUddiG3UcR5uzwV/V2AAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZh/eT83ILSktQifY3cxGIgrakPAHib2iPIAAAA[0mJenkins in /root/.jenkins/workspace/pipe
+[8mha:////4IhaleqBEHdtGz0WsqEnH4M6D43oNE1QJbUtu6ug4NebAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4A0myDfWFr+BVvOosgIMG5q6eJE2y0h9StvHzbH9db+4AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4Keo2q2gRPvaXuaSAoAvYgIiSjqHxxOwzlOUiBqMZ1ihAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (SCM Checkout)
+[8mha:////4IXgEYCT22cuwPyA6ivdpW8W40rgH5nBgLlZS5Eu8uRUAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] git
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/shyam9921/maven-samples.git
+ > /usr/bin/git init /root/.jenkins/workspace/pipe # timeout=10
+Fetching upstream changes from https://github.com/shyam9921/maven-samples.git
+ > /usr/bin/git --version # timeout=10
+ > /usr/bin/git fetch --tags --progress https://github.com/shyam9921/maven-samples.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > /usr/bin/git config remote.origin.url https://github.com/shyam9921/maven-samples.git # timeout=10
+ > /usr/bin/git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > /usr/bin/git config remote.origin.url https://github.com/shyam9921/maven-samples.git # timeout=10
+Fetching upstream changes from https://github.com/shyam9921/maven-samples.git
+ > /usr/bin/git fetch --tags --progress https://github.com/shyam9921/maven-samples.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > /usr/bin/git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > /usr/bin/git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 4d47c7d9bd4ca5ea765d78c76020dd71cf133e8b (refs/remotes/origin/master)
+ > /usr/bin/git config core.sparsecheckout # timeout=10
+ > /usr/bin/git checkout -f 4d47c7d9bd4ca5ea765d78c76020dd71cf133e8b # timeout=10
+ > /usr/bin/git branch -a -v --no-abbrev # timeout=10
+ > /usr/bin/git checkout -b master 4d47c7d9bd4ca5ea765d78c76020dd71cf133e8b # timeout=10
+Commit message: "Merge pull request #1 from narendra2244/patch-1"
+First time build. Skipping changelog.
+[8mha:////4Htqj7YYpqJmuawcsnAbk+/+m5oeRw2AfG4+FPfhHZg5AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4N9aditbtOKTtuX0BYI8pwZfOqEG9TV4VM4P3sIkjBpIAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4E+3FpCu7KfE9PLJuddgAYncqaWPxHhMGvaJuqwuQUndAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] stage
+[8mha:////4GpL83W7ABcjo9WzfaeeuLY0z+fPt7ZPf0Mv04kQJfj3AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] { (clean-compile)
+[8mha:////4G1GNHVGQH4emlHrYziNDk4g22Vj+YVUQjW4wBdcB/ZeAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggysXWsbBkaT4AJIoT5nwCRVJ7Iq3kH0cxYucXOvm3e8wXrGOBIQTOrcDAYO8O8m3RZLFMYro4ys3RhHWEkp5hQWVCvTgsKSgqWVDWsOGwUdo6iQZ1gy628y8ZJ1M05hfIdONSmH+EBFS/mJEP6whxgd5v6SPjz/BXA7BPUbfupvX8DpQJrNb4AAAA=[0m[Pipeline] sh
++ mvn clean
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:server:jar:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter.
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:webapp:war:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter.
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:multi-module-parent:pom:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter. @ line 51, column 24
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:single-module-project:jar:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter. @ line 53, column 24
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[WARNING] The project com.example.maven-samples:multi-module-parent:pom:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[WARNING] The project com.example.maven-samples:single-module-project:jar:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[WARNING] The project com.example.maven-samples:parent:pom:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] Multi Module Project Parent                                        [pom]
+[INFO] Server                                                             [jar]
+[INFO] Webapp                                                             [war]
+[INFO] A Single Maven Module                                              [jar]
+[INFO] Parent                                                             [pom]
+[INFO] 
+[INFO] -----------< com.example.maven-samples:multi-module-parent >------------
+[INFO] Building Multi Module Project Parent 1.0-SNAPSHOT                  [1/5]
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ multi-module-parent ---
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:server >------------------
+[INFO] Building Server 1.0-SNAPSHOT                                       [2/5]
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ server ---
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:webapp >------------------
+[INFO] Building Webapp 1.0-SNAPSHOT                                       [3/5]
+[INFO] --------------------------------[ war ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ webapp ---
+[INFO] 
+[INFO] ----------< com.example.maven-samples:single-module-project >-----------
+[INFO] Building A Single Maven Module 1.0-SNAPSHOT                        [4/5]
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ single-module-project ---
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:parent >------------------
+[INFO] Building Parent 1.0-SNAPSHOT                                       [5/5]
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ parent ---
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary for Parent 1.0-SNAPSHOT:
+[INFO] 
+[INFO] Multi Module Project Parent ........................ SUCCESS [  0.486 s]
+[INFO] Server ............................................. SUCCESS [  0.014 s]
+[INFO] Webapp ............................................. SUCCESS [  0.018 s]
+[INFO] A Single Maven Module .............................. SUCCESS [  0.009 s]
+[INFO] Parent ............................................. SUCCESS [  0.002 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.926 s
+[INFO] Finished at: 2019-02-06T05:04:11Z
+[INFO] ------------------------------------------------------------------------
+[8mha:////4Es7w1gOg7l4RDatkZU6daClDhHh3pu5HA0gHFBfPv2YAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyGUvHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzD5B3baf2vs35DNwLL4AAAA=[0m[Pipeline] sh
++ mvn compile
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:server:jar:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter.
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:webapp:war:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter.
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:multi-module-parent:pom:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter. @ line 51, column 24
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:single-module-project:jar:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter. @ line 53, column 24
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[WARNING] The project com.example.maven-samples:multi-module-parent:pom:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[WARNING] The project com.example.maven-samples:single-module-project:jar:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[WARNING] The project com.example.maven-samples:parent:pom:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] Multi Module Project Parent                                        [pom]
+[INFO] Server                                                             [jar]
+[INFO] Webapp                                                             [war]
+[INFO] A Single Maven Module                                              [jar]
+[INFO] Parent                                                             [pom]
+[INFO] 
+[INFO] -----------< com.example.maven-samples:multi-module-parent >------------
+[INFO] Building Multi Module Project Parent 1.0-SNAPSHOT                  [1/5]
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:server >------------------
+[INFO] Building Server 1.0-SNAPSHOT                                       [2/5]
+[INFO] --------------------------------[ jar ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom
+Progress (1): 2.2/7.1 kBProgress (1): 5.0/7.1 kBProgress (1): 7.1 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom (7.1 kB at 15 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/19/maven-plugins-19.pom
+Progress (1): 2.2/11 kBProgress (1): 5.0/11 kBProgress (1): 7.8/11 kBProgress (1): 11/11 kB Progress (1): 11 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/19/maven-plugins-19.pom (11 kB at 479 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar
+Progress (1): 2.2/26 kBProgress (1): 5.0/26 kBProgress (1): 7.7/26 kBProgress (1): 10/26 kB Progress (1): 13/26 kBProgress (1): 16/26 kBProgress (1): 19/26 kBProgress (1): 21/26 kBProgress (1): 24/26 kBProgress (1): 26 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.jar (26 kB at 1.0 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.pom
+Progress (1): 2.2/7.3 kBProgress (1): 5.0/7.3 kBProgress (1): 7.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.pom (7.3 kB at 489 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom
+Progress (1): 2.2/13 kBProgress (1): 5.0/13 kBProgress (1): 7.8/13 kBProgress (1): 11/13 kB Progress (1): 13 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom (13 kB at 1.2 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar
+Progress (1): 2.2/29 kBProgress (1): 5.0/29 kBProgress (1): 7.7/29 kBProgress (1): 10/29 kB Progress (1): 13/29 kBProgress (1): 16/29 kBProgress (1): 19/29 kBProgress (1): 21/29 kBProgress (1): 24/29 kBProgress (1): 27/29 kBProgress (1): 29 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.2/maven-compiler-plugin-2.3.2.jar (29 kB at 1.5 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/junit/junit-dep/4.10/junit-dep-4.10.pom
+Progress (1): 2.2/2.3 kBProgress (1): 2.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/junit/junit-dep/4.10/junit-dep-4.10.pom (2.3 kB at 196 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.2.1/hamcrest-core-1.2.1.pom
+Progress (1): 2.2/5.3 kBProgress (1): 5.0/5.3 kBProgress (1): 5.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.2.1/hamcrest-core-1.2.1.pom (5.3 kB at 589 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-library/1.2.1/hamcrest-library-1.2.1.pom
+Progress (1): 2.2/5.5 kBProgress (1): 5.0/5.5 kBProgress (1): 5.5 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-library/1.2.1/hamcrest-library-1.2.1.pom (5.5 kB at 613 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.8.5/mockito-core-1.8.5.pom
+Progress (1): 1.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.8.5/mockito-core-1.8.5.pom (1.3 kB at 181 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/objenesis/objenesis/1.0/objenesis-1.0.pom
+Progress (1): 853 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/objenesis/objenesis/1.0/objenesis-1.0.pom (853 B at 122 kB/s)
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ server ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom
+Progress (1): 2.2/5.8 kBProgress (1): 5.0/5.8 kBProgress (1): 5.8 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom (5.8 kB at 480 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/16/maven-shared-components-16.pom
+Progress (1): 2.2/9.2 kBProgress (1): 5.0/9.2 kBProgress (1): 7.8/9.2 kBProgress (1): 9.2 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/16/maven-shared-components-16.pom (9.2 kB at 832 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.jar
+Progress (1): 2.2/43 kBProgress (1): 5.0/43 kBProgress (1): 7.7/43 kBProgress (1): 10/43 kB Progress (1): 13/43 kBProgress (1): 16/43 kBProgress (1): 19/43 kBProgress (1): 21/43 kBProgress (1): 24/43 kBProgress (1): 27/43 kBProgress (1): 30/43 kBProgress (1): 32/43 kBProgress (1): 36/43 kBProgress (1): 40/43 kBProgress (1): 43 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.jar (43 kB at 1.8 MB/s)
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/server/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ server ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.pom
+Progress (1): 805 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.pom (805 B at 80 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.8.1/plexus-compiler-1.8.1.pom
+Progress (1): 2.2/3.5 kBProgress (1): 3.5 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.8.1/plexus-compiler-1.8.1.pom (3.5 kB at 248 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.pom
+Progress (1): 713 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.pom (713 B at 102 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.pom
+Progress (1): 710 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.pom (710 B at 89 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.8.1/plexus-compilers-1.8.1.pom
+Progress (1): 1.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.8.1/plexus-compilers-1.8.1.pom (1.3 kB at 121 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.jar
+Progress (1): 2.2/20 kBProgress (1): 5.0/20 kBProgress (1): 7.7/20 kBProgress (1): 10/20 kB Progress (1): 13/20 kBProgress (1): 16/20 kBProgress (1): 19/20 kBProgress (1): 20 kB   Progress (2): 20 kB | 2.2/13 kBProgress (2): 20 kB | 5.0/13 kBProgress (2): 20 kB | 7.7/13 kBProgress (2): 20 kB | 10/13 kB Progress (2): 20 kB | 13 kB   Progress (3): 20 kB | 13 kB | 2.2/5.3 kBProgress (3): 20 kB | 13 kB | 5.0/5.3 kBProgress (3): 20 kB | 13 kB | 5.3 kB                                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8.1/plexus-compiler-javac-1.8.1.jar (13 kB at 348 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8.1/plexus-compiler-api-1.8.1.jar (20 kB at 454 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.jar (5.3 kB at 121 kB/s)
+[INFO] Compiling 1 source file to /root/.jenkins/workspace/pipe/multi-module/server/target/classes
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:webapp >------------------
+[INFO] Building Webapp 1.0-SNAPSHOT                                       [3/5]
+[INFO] --------------------------------[ war ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2.pom
+Progress (1): 2.2/5.3 kBProgress (1): 5.0/5.3 kBProgress (1): 5.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2.pom (5.3 kB at 381 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/glassfish/web/jsp/2.2/jsp-2.2.pom
+Progress (1): 2.2/6.9 kBProgress (1): 5.0/6.9 kBProgress (1): 6.9 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/glassfish/web/jsp/2.2/jsp-2.2.pom (6.9 kB at 493 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2.jar
+Progress (1): 2.2/50 kBProgress (1): 5.0/50 kBProgress (1): 7.7/50 kBProgress (1): 10/50 kB Progress (1): 13/50 kBProgress (1): 16/50 kBProgress (1): 19/50 kBProgress (1): 21/50 kBProgress (1): 24/50 kBProgress (1): 27/50 kBProgress (1): 30/50 kBProgress (1): 32/50 kBProgress (1): 36/50 kBProgress (1): 40/50 kBProgress (1): 45/50 kBProgress (1): 49/50 kBProgress (1): 50 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2.jar (50 kB at 1.6 MB/s)
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ webapp ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/webapp/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ webapp ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] ----------< com.example.maven-samples:single-module-project >-----------
+[INFO] Building A Single Maven Module 1.0-SNAPSHOT                        [4/5]
+[INFO] --------------------------------[ jar ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+Progress (1): 481 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom (481 B at 80 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+Progress (1): 2.2/5.9 kBProgress (1): 5.0/5.9 kBProgress (1): 5.9 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom (5.9 kB at 326 kB/s)
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ single-module-project ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/single-module/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ single-module-project ---
+[INFO] Compiling 1 source file to /root/.jenkins/workspace/pipe/single-module/target/classes
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:parent >------------------
+[INFO] Building Parent 1.0-SNAPSHOT                                       [5/5]
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary for Parent 1.0-SNAPSHOT:
+[INFO] 
+[INFO] Multi Module Project Parent ........................ SUCCESS [  0.004 s]
+[INFO] Server ............................................. SUCCESS [  3.394 s]
+[INFO] Webapp ............................................. SUCCESS [  0.098 s]
+[INFO] A Single Maven Module .............................. SUCCESS [  0.637 s]
+[INFO] Parent ............................................. SUCCESS [  0.003 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  4.467 s
+[INFO] Finished at: 2019-02-06T05:04:18Z
+[INFO] ------------------------------------------------------------------------
+[8mha:////4Mzr2h3aSH2GT+L4pBl+Agan5FKYkWPbQsEKqf3BS8mxAAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaJm7GyZWw+AXYIkLJexSodPKL/DX/QbSJk3e4uecu5/mCdQxwpKCZVTgYjJ1h3k26LJYpDFdHmVm6sI4wklNMqCyoV6cFBSUFS6oaVhw2CjtH0aBOsOVW3mXjJOrmnEL5Dhxq04/wgIoXc5IhfWEOsLtNfST8ef4KYPY+Qd3uP9W+ATnVfPq+AAAA[0m[Pipeline] }
+[8mha:////4C/rgsVX0tXf4ax7Hq/Vs2ksCDkg/JSKA1cFSm9FXTbcAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICBRWiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7Bgo2J0a+AAAA[0m[Pipeline] // stage
+[8mha:////4NlYm0FJte83H8VIFYIRR7P1KNRrfScYYuNl1YbJ2+u6AAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjJESDqGgtN7zAxMY4se6CfSGpeBFf4w8EIlGx1c5Kq3m+oMwJDpS8bBy2AXMdZBd7PzU5UGovkQbZ0FnWhJmik9oNmqw7zqiJHcwRBSwULB3WkXJAz7BSjbmbKhr01YnTtO0VFMHe4AFCTWY2ib8wJlhfe5sJf56/Ahg7BrFlKDa7z7F8A6sHc4fBAAAA[0m[Pipeline] stage
+[8mha:////4LJ6uAOSRPEWUohCGT2wC1e2A7xpal+OdZ2kFxI6jZhrAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohULDAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD1+IXOLCAAAA[0m[Pipeline] { (test-package)
+[8mha:////4N5UDjjK2IQSxpi3eqyRV+cGZzY/wX74Mx2y8PhgkcJGAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKpAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHNxXfVKy+AAAA[0m[Pipeline] sh
++ mvn test verify
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:server:jar:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter.
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:webapp:war:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter.
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:multi-module-parent:pom:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter. @ line 51, column 24
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:single-module-project:jar:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter. @ line 53, column 24
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[WARNING] The project com.example.maven-samples:multi-module-parent:pom:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[WARNING] The project com.example.maven-samples:single-module-project:jar:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[WARNING] The project com.example.maven-samples:parent:pom:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] Multi Module Project Parent                                        [pom]
+[INFO] Server                                                             [jar]
+[INFO] Webapp                                                             [war]
+[INFO] A Single Maven Module                                              [jar]
+[INFO] Parent                                                             [pom]
+[INFO] 
+[INFO] -----------< com.example.maven-samples:multi-module-parent >------------
+[INFO] Building Multi Module Project Parent 1.0-SNAPSHOT                  [1/5]
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:server >------------------
+[INFO] Building Server 1.0-SNAPSHOT                                       [2/5]
+[INFO] --------------------------------[ jar ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.11/maven-surefire-plugin-2.11.pom
+Progress (1): 2.2/11 kBProgress (1): 5.0/11 kBProgress (1): 7.8/11 kBProgress (1): 11/11 kB Progress (1): 11 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.11/maven-surefire-plugin-2.11.pom (11 kB at 24 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.11/surefire-2.11.pom
+Progress (1): 2.2/12 kBProgress (1): 5.0/12 kBProgress (1): 7.8/12 kBProgress (1): 11/12 kB Progress (1): 12 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.11/surefire-2.11.pom (12 kB at 664 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.11/maven-surefire-plugin-2.11.jar
+Progress (1): 2.2/31 kBProgress (1): 5.0/31 kBProgress (1): 7.7/31 kBProgress (1): 10/31 kB Progress (1): 13/31 kBProgress (1): 16/31 kBProgress (1): 19/31 kBProgress (1): 21/31 kBProgress (1): 24/31 kBProgress (1): 27/31 kBProgress (1): 30/31 kBProgress (1): 31 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.11/maven-surefire-plugin-2.11.jar (31 kB at 1.1 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/junit/junit-dep/4.10/junit-dep-4.10.jar
+Progress (1): 2.2/234 kBProgress (1): 5.0/234 kBProgress (1): 7.7/234 kB                        Downloading from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.2.1/hamcrest-core-1.2.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-library/1.2.1/hamcrest-library-1.2.1.jar
+Progress (1): 10/234 kBProgress (1): 13/234 kBProgress (1): 16/234 kBProgress (1): 19/234 kBProgress (1): 21/234 kBProgress (1): 24/234 kBProgress (1): 27/234 kBProgress (1): 30/234 kBProgress (1): 32/234 kB                       Downloading from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.8.5/mockito-core-1.8.5.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/objenesis/objenesis/1.0/objenesis-1.0.jar
+Progress (2): 32/234 kB | 2.2/42 kBProgress (2): 32/234 kB | 5.0/42 kBProgress (2): 32/234 kB | 7.7/42 kBProgress (2): 32/234 kB | 10/42 kB Progress (2): 36/234 kB | 10/42 kBProgress (2): 40/234 kB | 10/42 kBProgress (2): 45/234 kB | 10/42 kBProgress (2): 49/234 kB | 10/42 kBProgress (2): 53/234 kB | 10/42 kBProgress (2): 57/234 kB | 10/42 kBProgress (2): 61/234 kB | 10/42 kBProgress (2): 65/234 kB | 10/42 kBProgress (2): 69/234 kB | 10/42 kBProgress (2): 73/234 kB | 10/42 kBProgress (3): 73/234 kB | 10/42 kB | 2.2/50 kBProgress (3): 73/234 kB | 10/42 kB | 5.0/50 kBProgress (3): 73/234 kB | 10/42 kB | 7.7/50 kBProgress (3): 73/234 kB | 10/42 kB | 10/50 kB Progress (3): 73/234 kB | 10/42 kB | 13/50 kBProgress (3): 73/234 kB | 10/42 kB | 16/50 kBProgress (3): 73/234 kB | 10/42 kB | 19/50 kBProgress (3): 73/234 kB | 10/42 kB | 21/50 kBProgress (4): 73/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MBProgress (4): 73/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MBProgress (4): 73/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MBProgress (4): 73/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MBProgress (4): 73/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MBProgress (4): 73/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MBProgress (5): 73/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MB | 2.2/29 kBProgress (5): 73/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MB | 5.0/29 kBProgress (5): 73/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 73/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 77/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 81/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 85/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 90/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 94/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 10/42 kB | 21/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 10/42 kB | 24/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 10/42 kB | 27/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 10/42 kB | 30/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 10/42 kB | 32/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 10/42 kB | 36/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 10/42 kB | 40/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 10/42 kB | 45/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 10/42 kB | 49/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 13/42 kB | 49/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 16/42 kB | 49/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 19/42 kB | 49/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 21/42 kB | 49/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 24/42 kB | 49/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 98/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 102/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 102/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 102/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 102/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 102/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 102/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 7.7/29 kBProgress (5): 102/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 10/29 kB Progress (5): 102/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 13/29 kBProgress (5): 102/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 16/29 kBProgress (5): 102/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 19/29 kBProgress (5): 102/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 21/29 kBProgress (5): 102/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 24/29 kBProgress (5): 102/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 27/29 kBProgress (5): 102/234 kB | 27/42 kB | 49/50 kB | 0/1.3 MB | 29 kB   Progress (5): 102/234 kB | 30/42 kB | 49/50 kB | 0/1.3 MB | 29 kBProgress (5): 102/234 kB | 32/42 kB | 49/50 kB | 0/1.3 MB | 29 kBProgress (5): 102/234 kB | 36/42 kB | 49/50 kB | 0/1.3 MB | 29 kBProgress (5): 102/234 kB | 40/42 kB | 49/50 kB | 0/1.3 MB | 29 kBProgress (5): 102/234 kB | 42 kB | 49/50 kB | 0/1.3 MB | 29 kB   Progress (5): 102/234 kB | 42 kB | 49/50 kB | 0/1.3 MB | 29 kBProgress (5): 102/234 kB | 42 kB | 49/50 kB | 0/1.3 MB | 29 kBProgress (5): 102/234 kB | 42 kB | 49/50 kB | 0/1.3 MB | 29 kBProgress (5): 102/234 kB | 42 kB | 50 kB | 0/1.3 MB | 29 kB   Progress (5): 106/234 kB | 42 kB | 50 kB | 0/1.3 MB | 29 kBProgress (5): 110/234 kB | 42 kB | 50 kB | 0/1.3 MB | 29 kBProgress (5): 114/234 kB | 42 kB | 50 kB | 0/1.3 MB | 29 kBProgress (5): 118/234 kB | 42 kB | 50 kB | 0/1.3 MB | 29 kBProgress (5): 122/234 kB | 42 kB | 50 kB | 0/1.3 MB | 29 kBProgress (5): 126/234 kB | 42 kB | 50 kB | 0/1.3 MB | 29 kBProgress (5): 131/234 kB | 42 kB | 50 kB | 0/1.3 MB | 29 kBProgress (5): 135/234 kB | 42 kB | 50 kB | 0/1.3 MB | 29 kBProgress (5): 139/234 kB | 42 kB | 50 kB | 0/1.3 MB | 29 kBProgress (5): 143/234 kB | 42 kB | 50 kB | 0/1.3 MB | 29 kBProgress (5): 147/234 kB | 42 kB | 50 kB | 0/1.3 MB | 29 kB                                                           Downloaded from central: https://repo.maven.apache.org/maven2/org/objenesis/objenesis/1.0/objenesis-1.0.jar (29 kB at 265 kB/s)
+Progress (4): 147/234 kB | 42 kB | 50 kB | 0/1.3 MBProgress (4): 147/234 kB | 42 kB | 50 kB | 0.1/1.3 MBProgress (4): 147/234 kB | 42 kB | 50 kB | 0.1/1.3 MBProgress (4): 147/234 kB | 42 kB | 50 kB | 0.1/1.3 MBProgress (4): 147/234 kB | 42 kB | 50 kB | 0.1/1.3 MBProgress (4): 147/234 kB | 42 kB | 50 kB | 0.1/1.3 MBProgress (4): 147/234 kB | 42 kB | 50 kB | 0.1/1.3 MB                                                     Downloaded from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-library/1.2.1/hamcrest-library-1.2.1.jar (50 kB at 394 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.2.1/hamcrest-core-1.2.1.jar (42 kB at 304 kB/s)
+Progress (2): 151/234 kB | 0.1/1.3 MBProgress (2): 155/234 kB | 0.1/1.3 MBProgress (2): 159/234 kB | 0.1/1.3 MBProgress (2): 163/234 kB | 0.1/1.3 MBProgress (2): 167/234 kB | 0.1/1.3 MBProgress (2): 167/234 kB | 0.1/1.3 MBProgress (2): 167/234 kB | 0.1/1.3 MBProgress (2): 167/234 kB | 0.1/1.3 MBProgress (2): 167/234 kB | 0.1/1.3 MBProgress (2): 167/234 kB | 0.1/1.3 MBProgress (2): 167/234 kB | 0.1/1.3 MBProgress (2): 167/234 kB | 0.1/1.3 MBProgress (2): 167/234 kB | 0.1/1.3 MBProgress (2): 167/234 kB | 0.1/1.3 MBProgress (2): 167/234 kB | 0.1/1.3 MBProgress (2): 171/234 kB | 0.1/1.3 MBProgress (2): 176/234 kB | 0.1/1.3 MBProgress (2): 180/234 kB | 0.1/1.3 MBProgress (2): 184/234 kB | 0.1/1.3 MBProgress (2): 188/234 kB | 0.1/1.3 MBProgress (2): 192/234 kB | 0.1/1.3 MBProgress (2): 196/234 kB | 0.1/1.3 MBProgress (2): 200/234 kB | 0.1/1.3 MBProgress (2): 204/234 kB | 0.1/1.3 MBProgress (2): 208/234 kB | 0.1/1.3 MBProgress (2): 212/234 kB | 0.1/1.3 MBProgress (2): 212/234 kB | 0.1/1.3 MBProgress (2): 212/234 kB | 0.1/1.3 MBProgress (2): 212/234 kB | 0.1/1.3 MBProgress (2): 212/234 kB | 0.1/1.3 MBProgress (2): 212/234 kB | 0.1/1.3 MBProgress (2): 212/234 kB | 0.1/1.3 MBProgress (2): 212/234 kB | 0.1/1.3 MBProgress (2): 212/234 kB | 0.1/1.3 MBProgress (2): 212/234 kB | 0.2/1.3 MBProgress (2): 212/234 kB | 0.2/1.3 MBProgress (2): 212/234 kB | 0.2/1.3 MBProgress (2): 217/234 kB | 0.2/1.3 MBProgress (2): 221/234 kB | 0.2/1.3 MBProgress (2): 225/234 kB | 0.2/1.3 MBProgress (2): 229/234 kB | 0.2/1.3 MBProgress (2): 233/234 kB | 0.2/1.3 MBProgress (2): 234 kB | 0.2/1.3 MB    Progress (2): 234 kB | 0.2/1.3 MBProgress (2): 234 kB | 0.2/1.3 MBProgress (2): 234 kB | 0.2/1.3 MBProgress (2): 234 kB | 0.2/1.3 MBProgress (2): 234 kB | 0.2/1.3 MBProgress (2): 234 kB | 0.2/1.3 MBProgress (2): 234 kB | 0.2/1.3 MBProgress (2): 234 kB | 0.2/1.3 MBProgress (2): 234 kB | 0.2/1.3 MB                                 Downloaded from central: https://repo.maven.apache.org/maven2/junit/junit-dep/4.10/junit-dep-4.10.jar (234 kB at 1.2 MB/s)
+Progress (1): 0.2/1.3 MBProgress (1): 0.2/1.3 MBProgress (1): 0.2/1.3 MBProgress (1): 0.2/1.3 MBProgress (1): 0.2/1.3 MBProgress (1): 0.2/1.3 MBProgress (1): 0.2/1.3 MBProgress (1): 0.2/1.3 MBProgress (1): 0.2/1.3 MBProgress (1): 0.2/1.3 MBProgress (1): 0.2/1.3 MBProgress (1): 0.2/1.3 MBProgress (1): 0.2/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.3/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.4/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.5/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.6/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.7/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.8/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 0.9/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.0/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.1/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.2/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3/1.3 MBProgress (1): 1.3 MB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.8.5/mockito-core-1.8.5.jar (1.3 MB at 3.4 MB/s)
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ server ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/server/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ server ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ server ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/server/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ server ---
+[INFO] Compiling 1 source file to /root/.jenkins/workspace/pipe/multi-module/server/target/test-classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.11:test (default-test) @ server ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.11/surefire-booter-2.11.pom
+Progress (1): 2.2/3.0 kBProgress (1): 3.0 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.11/surefire-booter-2.11.pom (3.0 kB at 275 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.11/surefire-api-2.11.pom
+Progress (1): 2.2/2.3 kBProgress (1): 2.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.11/surefire-api-2.11.pom (2.3 kB at 286 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.11/maven-surefire-common-2.11.pom
+Progress (1): 2.2/4.0 kBProgress (1): 4.0 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.11/maven-surefire-common-2.11.pom (4.0 kB at 334 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom
+Progress (1): 1.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom (1.8 kB at 120 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom
+Progress (1): 1.5 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom (1.5 kB at 211 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.0.9/maven-toolchain-2.0.9.pom
+Progress (1): 2.2/3.5 kBProgress (1): 3.5 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.0.9/maven-toolchain-2.0.9.pom (3.5 kB at 248 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.pom
+Progress (1): 2.2/3.7 kBProgress (1): 3.7 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.pom (3.7 kB at 337 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/12/maven-shared-components-12.pom
+Progress (1): 2.2/9.3 kBProgress (1): 5.0/9.3 kBProgress (1): 7.8/9.3 kBProgress (1): 9.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/12/maven-shared-components-12.pom (9.3 kB at 718 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/13/maven-parent-13.pom
+Progress (1): 2.2/23 kBProgress (1): 5.0/23 kBProgress (1): 7.8/23 kBProgress (1): 11/23 kB Progress (1): 13/23 kBProgress (1): 16/23 kBProgress (1): 19/23 kBProgress (1): 21/23 kBProgress (1): 23 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/13/maven-parent-13.pom (23 kB at 1.7 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.11/surefire-booter-2.11.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.11/surefire-api-2.11.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.11/maven-surefire-common-2.11.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.jar
+Progress (1): 2.2/33 kBProgress (1): 5.0/33 kBProgress (2): 5.0/33 kB | 2.2/160 kBProgress (2): 5.0/33 kB | 5.0/160 kBProgress (2): 5.0/33 kB | 7.7/160 kBProgress (2): 5.0/33 kB | 10/160 kB Progress (2): 5.0/33 kB | 13/160 kBProgress (2): 5.0/33 kB | 16/160 kBProgress (2): 5.0/33 kB | 19/160 kBProgress (2): 5.0/33 kB | 21/160 kBProgress (2): 5.0/33 kB | 24/160 kBProgress (2): 7.7/33 kB | 24/160 kBProgress (2): 10/33 kB | 24/160 kB Progress (2): 13/33 kB | 24/160 kBProgress (2): 16/33 kB | 24/160 kBProgress (2): 19/33 kB | 24/160 kBProgress (2): 21/33 kB | 24/160 kBProgress (2): 24/33 kB | 24/160 kBProgress (2): 27/33 kB | 24/160 kBProgress (2): 30/33 kB | 24/160 kBProgress (2): 32/33 kB | 24/160 kBProgress (2): 33 kB | 24/160 kB   Progress (3): 33 kB | 24/160 kB | 2.2/31 kBProgress (3): 33 kB | 24/160 kB | 5.0/31 kBProgress (3): 33 kB | 24/160 kB | 7.7/31 kBProgress (3): 33 kB | 24/160 kB | 10/31 kB Progress (3): 33 kB | 24/160 kB | 13/31 kBProgress (3): 33 kB | 24/160 kB | 16/31 kBProgress (3): 33 kB | 24/160 kB | 19/31 kBProgress (3): 33 kB | 24/160 kB | 21/31 kBProgress (3): 33 kB | 24/160 kB | 24/31 kBProgress (3): 33 kB | 24/160 kB | 27/31 kBProgress (4): 33 kB | 24/160 kB | 27/31 kB | 2.2/225 kBProgress (4): 33 kB | 24/160 kB | 27/31 kB | 5.0/225 kBProgress (4): 33 kB | 24/160 kB | 27/31 kB | 7.7/225 kBProgress (4): 33 kB | 24/160 kB | 27/31 kB | 10/225 kB Progress (4): 33 kB | 24/160 kB | 27/31 kB | 13/225 kBProgress (4): 33 kB | 24/160 kB | 27/31 kB | 16/225 kBProgress (4): 33 kB | 27/160 kB | 27/31 kB | 16/225 kBProgress (4): 33 kB | 30/160 kB | 27/31 kB | 16/225 kBProgress (4): 33 kB | 32/160 kB | 27/31 kB | 16/225 kBProgress (4): 33 kB | 36/160 kB | 27/31 kB | 16/225 kBProgress (4): 33 kB | 40/160 kB | 27/31 kB | 16/225 kBProgress (4): 33 kB | 45/160 kB | 27/31 kB | 16/225 kBProgress (4): 33 kB | 49/160 kB | 27/31 kB | 16/225 kBProgress (4): 33 kB | 53/160 kB | 27/31 kB | 16/225 kBProgress (4): 33 kB | 57/160 kB | 27/31 kB | 16/225 kBProgress (4): 33 kB | 61/160 kB | 27/31 kB | 16/225 kBProgress (4): 33 kB | 65/160 kB | 27/31 kB | 16/225 kBProgress (4): 33 kB | 65/160 kB | 30/31 kB | 16/225 kBProgress (5): 33 kB | 65/160 kB | 30/31 kB | 16/225 kB | 2.2/84 kBProgress (5): 33 kB | 65/160 kB | 30/31 kB | 16/225 kB | 5.0/84 kBProgress (5): 33 kB | 65/160 kB | 30/31 kB | 16/225 kB | 7.7/84 kBProgress (5): 33 kB | 65/160 kB | 30/31 kB | 16/225 kB | 10/84 kB Progress (5): 33 kB | 65/160 kB | 30/31 kB | 16/225 kB | 13/84 kBProgress (5): 33 kB | 65/160 kB | 30/31 kB | 16/225 kB | 16/84 kBProgress (5): 33 kB | 65/160 kB | 30/31 kB | 16/225 kB | 19/84 kBProgress (5): 33 kB | 65/160 kB | 30/31 kB | 16/225 kB | 21/84 kBProgress (5): 33 kB | 65/160 kB | 30/31 kB | 16/225 kB | 24/84 kBProgress (5): 33 kB | 65/160 kB | 30/31 kB | 16/225 kB | 27/84 kBProgress (5): 33 kB | 65/160 kB | 30/31 kB | 16/225 kB | 30/84 kBProgress (5): 33 kB | 65/160 kB | 30/31 kB | 16/225 kB | 32/84 kBProgress (5): 33 kB | 69/160 kB | 30/31 kB | 16/225 kB | 32/84 kB                                                                 Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.11/surefire-booter-2.11.jar (33 kB at 381 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar
+Progress (4): 69/160 kB | 30/31 kB | 19/225 kB | 32/84 kBProgress (4): 69/160 kB | 30/31 kB | 21/225 kB | 32/84 kBProgress (4): 69/160 kB | 30/31 kB | 24/225 kB | 32/84 kBProgress (4): 69/160 kB | 30/31 kB | 27/225 kB | 32/84 kBProgress (4): 69/160 kB | 30/31 kB | 30/225 kB | 32/84 kBProgress (4): 69/160 kB | 30/31 kB | 32/225 kB | 32/84 kBProgress (4): 69/160 kB | 30/31 kB | 36/225 kB | 32/84 kBProgress (4): 69/160 kB | 30/31 kB | 40/225 kB | 32/84 kBProgress (4): 69/160 kB | 30/31 kB | 45/225 kB | 32/84 kBProgress (4): 69/160 kB | 30/31 kB | 49/225 kB | 32/84 kBProgress (4): 69/160 kB | 30/31 kB | 53/225 kB | 32/84 kBProgress (4): 69/160 kB | 30/31 kB | 57/225 kB | 32/84 kBProgress (4): 69/160 kB | 30/31 kB | 61/225 kB | 32/84 kBProgress (4): 69/160 kB | 30/31 kB | 65/225 kB | 32/84 kBProgress (4): 69/160 kB | 31 kB | 65/225 kB | 32/84 kB   Progress (5): 69/160 kB | 31 kB | 65/225 kB | 32/84 kB | 2.2/10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 32/84 kB | 5.0/10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 32/84 kB | 7.7/10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 32/84 kB | 10 kB    Progress (5): 69/160 kB | 31 kB | 65/225 kB | 36/84 kB | 10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 40/84 kB | 10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 45/84 kB | 10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 49/84 kB | 10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 53/84 kB | 10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 57/84 kB | 10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 61/84 kB | 10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 65/84 kB | 10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 69/84 kB | 10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 73/84 kB | 10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 77/84 kB | 10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 81/84 kB | 10 kBProgress (5): 69/160 kB | 31 kB | 65/225 kB | 84 kB | 10 kB   Progress (5): 73/160 kB | 31 kB | 65/225 kB | 84 kB | 10 kBProgress (5): 77/160 kB | 31 kB | 65/225 kB | 84 kB | 10 kBProgress (5): 81/160 kB | 31 kB | 65/225 kB | 84 kB | 10 kBProgress (5): 85/160 kB | 31 kB | 65/225 kB | 84 kB | 10 kBProgress (5): 90/160 kB | 31 kB | 65/225 kB | 84 kB | 10 kBProgress (5): 94/160 kB | 31 kB | 65/225 kB | 84 kB | 10 kBProgress (5): 98/160 kB | 31 kB | 65/225 kB | 84 kB | 10 kBProgress (5): 102/160 kB | 31 kB | 65/225 kB | 84 kB | 10 kBProgress (5): 106/160 kB | 31 kB | 65/225 kB | 84 kB | 10 kBProgress (5): 110/160 kB | 31 kB | 65/225 kB | 84 kB | 10 kBProgress (5): 114/160 kB | 31 kB | 65/225 kB | 84 kB | 10 kBProgress (5): 118/160 kB | 31 kB | 65/225 kB | 84 kB | 10 kBProgress (5): 122/160 kB | 31 kB | 65/225 kB | 84 kB | 10 kB                                                            Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/1.3/maven-common-artifact-filters-1.3.jar (31 kB at 282 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.0.9/maven-toolchain-2.0.9.jar
+Progress (4): 122/160 kB | 69/225 kB | 84 kB | 10 kBProgress (4): 122/160 kB | 73/225 kB | 84 kB | 10 kBProgress (4): 122/160 kB | 77/225 kB | 84 kB | 10 kBProgress (4): 122/160 kB | 81/225 kB | 84 kB | 10 kB                                                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar (10 kB at 90 kB/s)
+Progress (3): 126/160 kB | 81/225 kB | 84 kBProgress (3): 131/160 kB | 81/225 kB | 84 kBProgress (4): 131/160 kB | 81/225 kB | 84 kB | 2.2/38 kBProgress (4): 131/160 kB | 81/225 kB | 84 kB | 5.0/38 kBProgress (4): 131/160 kB | 81/225 kB | 84 kB | 7.7/38 kBProgress (4): 131/160 kB | 81/225 kB | 84 kB | 10/38 kB Progress (4): 131/160 kB | 81/225 kB | 84 kB | 13/38 kBProgress (4): 131/160 kB | 81/225 kB | 84 kB | 16/38 kBProgress (4): 131/160 kB | 81/225 kB | 84 kB | 19/38 kBProgress (4): 131/160 kB | 81/225 kB | 84 kB | 21/38 kBProgress (4): 131/160 kB | 85/225 kB | 84 kB | 21/38 kBProgress (4): 131/160 kB | 90/225 kB | 84 kB | 21/38 kBProgress (4): 131/160 kB | 94/225 kB | 84 kB | 21/38 kBProgress (4): 131/160 kB | 98/225 kB | 84 kB | 21/38 kBProgress (4): 131/160 kB | 102/225 kB | 84 kB | 21/38 kBProgress (4): 131/160 kB | 106/225 kB | 84 kB | 21/38 kBProgress (4): 131/160 kB | 110/225 kB | 84 kB | 21/38 kBProgress (4): 131/160 kB | 114/225 kB | 84 kB | 21/38 kBProgress (4): 131/160 kB | 118/225 kB | 84 kB | 21/38 kBProgress (4): 131/160 kB | 122/225 kB | 84 kB | 21/38 kBProgress (4): 131/160 kB | 126/225 kB | 84 kB | 21/38 kBProgress (4): 131/160 kB | 131/225 kB | 84 kB | 21/38 kBProgress (4): 131/160 kB | 135/225 kB | 84 kB | 21/38 kBProgress (4): 131/160 kB | 139/225 kB | 84 kB | 21/38 kBProgress (4): 135/160 kB | 139/225 kB | 84 kB | 21/38 kBProgress (4): 139/160 kB | 139/225 kB | 84 kB | 21/38 kBProgress (4): 143/160 kB | 139/225 kB | 84 kB | 21/38 kBProgress (4): 147/160 kB | 139/225 kB | 84 kB | 21/38 kBProgress (4): 151/160 kB | 139/225 kB | 84 kB | 21/38 kBProgress (4): 155/160 kB | 139/225 kB | 84 kB | 21/38 kBProgress (4): 159/160 kB | 139/225 kB | 84 kB | 21/38 kBProgress (4): 160 kB | 139/225 kB | 84 kB | 21/38 kB    Progress (4): 160 kB | 139/225 kB | 84 kB | 24/38 kBProgress (4): 160 kB | 139/225 kB | 84 kB | 27/38 kBProgress (4): 160 kB | 139/225 kB | 84 kB | 30/38 kBProgress (4): 160 kB | 139/225 kB | 84 kB | 32/38 kBProgress (4): 160 kB | 139/225 kB | 84 kB | 35/38 kBProgress (4): 160 kB | 139/225 kB | 84 kB | 38/38 kB                                                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.11/maven-surefire-common-2.11.jar (84 kB at 532 kB/s)
+Progress (3): 160 kB | 139/225 kB | 38 kBProgress (3): 160 kB | 143/225 kB | 38 kBProgress (3): 160 kB | 147/225 kB | 38 kBProgress (3): 160 kB | 151/225 kB | 38 kBProgress (3): 160 kB | 155/225 kB | 38 kBProgress (3): 160 kB | 159/225 kB | 38 kBProgress (3): 160 kB | 163/225 kB | 38 kBProgress (3): 160 kB | 167/225 kB | 38 kBProgress (3): 160 kB | 171/225 kB | 38 kBProgress (3): 160 kB | 176/225 kB | 38 kBProgress (3): 160 kB | 180/225 kB | 38 kB                                         Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.0.9/maven-toolchain-2.0.9.jar (38 kB at 226 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.11/surefire-api-2.11.jar (160 kB at 904 kB/s)
+Progress (1): 184/225 kBProgress (1): 188/225 kBProgress (1): 192/225 kBProgress (1): 196/225 kBProgress (1): 200/225 kBProgress (1): 204/225 kBProgress (1): 208/225 kBProgress (1): 212/225 kBProgress (1): 217/225 kBProgress (1): 221/225 kBProgress (1): 225 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.jar (225 kB at 1.1 MB/s)
+[INFO] Surefire report directory: /root/.jenkins/workspace/pipe/multi-module/server/target/surefire-reports
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.11/surefire-junit4-2.11.pom
+Progress (1): 2.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.11/surefire-junit4-2.11.pom (2.6 kB at 137 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.11/surefire-providers-2.11.pom
+Progress (1): 2.2/2.3 kBProgress (1): 2.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.11/surefire-providers-2.11.pom (2.3 kB at 209 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.11/surefire-junit4-2.11.jar
+Progress (1): 2.2/33 kBProgress (1): 5.0/33 kBProgress (1): 7.7/33 kBProgress (1): 10/33 kB Progress (1): 13/33 kBProgress (1): 16/33 kBProgress (1): 19/33 kBProgress (1): 21/33 kBProgress (1): 24/33 kBProgress (1): 27/33 kBProgress (1): 30/33 kBProgress (1): 32/33 kBProgress (1): 33 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.11/surefire-junit4-2.11.jar (33 kB at 968 kB/s)
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.example.TestGreeter
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.17 sec
+
+Results :
+
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ server ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/server/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ server ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ server ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/server/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ server ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.11:test (default-test) @ server ---
+[INFO] Skipping execution of surefire because it has already been run for this configuration
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ server ---
+[INFO] Building jar: /root/.jenkins/workspace/pipe/multi-module/server/target/server.jar
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:webapp >------------------
+[INFO] Building Webapp 1.0-SNAPSHOT                                       [3/5]
+[INFO] --------------------------------[ war ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+Progress (1): 2.2/6.5 kBProgress (1): 5.0/6.5 kBProgress (1): 6.5 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom (6.5 kB at 539 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar
+Progress (1): 2.2/79 kBProgress (1): 5.0/79 kBProgress (1): 7.7/79 kBProgress (1): 10/79 kB Progress (1): 13/79 kBProgress (1): 16/79 kBProgress (1): 19/79 kBProgress (1): 21/79 kBProgress (1): 24/79 kBProgress (1): 27/79 kBProgress (1): 30/79 kBProgress (1): 32/79 kBProgress (1): 36/79 kBProgress (1): 40/79 kBProgress (1): 45/79 kBProgress (1): 49/79 kBProgress (1): 53/79 kBProgress (1): 57/79 kBProgress (1): 61/79 kBProgress (1): 65/79 kBProgress (1): 69/79 kBProgress (1): 73/79 kBProgress (1): 77/79 kBProgress (1): 79 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar (79 kB at 2.9 MB/s)
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ webapp ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/webapp/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ webapp ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ webapp ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/webapp/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ webapp ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.11:test (default-test) @ webapp ---
+[INFO] No tests to run.
+[INFO] Surefire report directory: /root/.jenkins/workspace/pipe/multi-module/webapp/target/surefire-reports
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit3/2.11/surefire-junit3-2.11.pom
+Progress (1): 1.7 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit3/2.11/surefire-junit3-2.11.pom (1.7 kB at 284 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit3/2.11/surefire-junit3-2.11.jar
+Progress (1): 2.2/26 kBProgress (1): 5.0/26 kBProgress (1): 7.7/26 kBProgress (1): 10/26 kB Progress (1): 13/26 kBProgress (1): 16/26 kBProgress (1): 19/26 kBProgress (1): 21/26 kBProgress (1): 24/26 kBProgress (1): 26 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit3/2.11/surefire-junit3-2.11.jar (26 kB at 1.8 MB/s)
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+
+Results :
+
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ webapp ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/webapp/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ webapp ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ webapp ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/webapp/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ webapp ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.11:test (default-test) @ webapp ---
+[INFO] No tests to run.
+[INFO] Skipping execution of surefire because it has already been run for this configuration
+[INFO] 
+[INFO] --- maven-war-plugin:2.2:war (default-war) @ webapp ---
+Downloading from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+Progress (1): 2.2/11 kBProgress (1): 5.0/11 kBProgress (1): 7.8/11 kBProgress (1): 11/11 kB Progress (1): 11 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom (11 kB at 879 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+Progress (1): 2.2/14 kBProgress (1): 5.0/14 kBProgress (1): 7.8/14 kBProgress (1): 11/14 kB Progress (1): 13/14 kBProgress (1): 14 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom (14 kB at 1.6 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+Progress (1): 1.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom (1.6 kB at 201 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom
+Progress (1): 2.2/4.0 kBProgress (1): 4.0 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom (4.0 kB at 671 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom
+Progress (1): 2.2/2.9 kBProgress (1): 2.9 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom (2.9 kB at 291 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar
+Progress (1): 2.2/431 kBProgress (1): 5.0/431 kBProgress (1): 7.7/431 kBProgress (1): 10/431 kB Progress (1): 13/431 kBProgress (1): 16/431 kBProgress (1): 19/431 kBProgress (1): 21/431 kBProgress (1): 24/431 kBProgress (2): 24/431 kB | 2.2/25 kBProgress (2): 24/431 kB | 5.0/25 kBProgress (2): 24/431 kB | 7.7/25 kBProgress (2): 24/431 kB | 10/25 kB Progress (2): 24/431 kB | 13/25 kBProgress (2): 24/431 kB | 16/25 kBProgress (2): 24/431 kB | 19/25 kBProgress (2): 24/431 kB | 21/25 kBProgress (2): 24/431 kB | 24/25 kBProgress (2): 24/431 kB | 25 kB   Progress (2): 27/431 kB | 25 kBProgress (2): 30/431 kB | 25 kBProgress (2): 32/431 kB | 25 kBProgress (2): 36/431 kB | 25 kBProgress (2): 40/431 kB | 25 kBProgress (2): 45/431 kB | 25 kBProgress (2): 49/431 kB | 25 kBProgress (3): 49/431 kB | 25 kB | 2.2/33 kBProgress (3): 49/431 kB | 25 kB | 5.0/33 kBProgress (3): 49/431 kB | 25 kB | 7.7/33 kBProgress (3): 49/431 kB | 25 kB | 10/33 kB Progress (3): 49/431 kB | 25 kB | 13/33 kBProgress (3): 49/431 kB | 25 kB | 16/33 kBProgress (3): 49/431 kB | 25 kB | 19/33 kBProgress (3): 49/431 kB | 25 kB | 21/33 kBProgress (3): 49/431 kB | 25 kB | 24/33 kBProgress (3): 49/431 kB | 25 kB | 27/33 kBProgress (3): 49/431 kB | 25 kB | 30/33 kBProgress (3): 49/431 kB | 25 kB | 32/33 kBProgress (3): 49/431 kB | 25 kB | 33 kB   Progress (3): 53/431 kB | 25 kB | 33 kBProgress (3): 57/431 kB | 25 kB | 33 kBProgress (3): 61/431 kB | 25 kB | 33 kBProgress (3): 65/431 kB | 25 kB | 33 kBProgress (3): 69/431 kB | 25 kB | 33 kBProgress (3): 73/431 kB | 25 kB | 33 kBProgress (3): 77/431 kB | 25 kB | 33 kBProgress (3): 81/431 kB | 25 kB | 33 kBProgress (3): 85/431 kB | 25 kB | 33 kBProgress (3): 90/431 kB | 25 kB | 33 kBProgress (3): 94/431 kB | 25 kB | 33 kBProgress (3): 98/431 kB | 25 kB | 33 kBProgress (3): 102/431 kB | 25 kB | 33 kBProgress (3): 106/431 kB | 25 kB | 33 kBProgress (3): 110/431 kB | 25 kB | 33 kBProgress (3): 114/431 kB | 25 kB | 33 kB                                        Downloaded from central: https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar (25 kB at 555 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar (33 kB at 790 kB/s)
+Progress (1): 118/431 kBProgress (1): 122/431 kBProgress (1): 126/431 kBProgress (1): 131/431 kBProgress (1): 135/431 kBProgress (1): 139/431 kBProgress (1): 143/431 kBProgress (1): 147/431 kBProgress (1): 151/431 kBProgress (1): 155/431 kBProgress (1): 159/431 kBProgress (1): 163/431 kBProgress (1): 167/431 kBProgress (1): 171/431 kBProgress (1): 176/431 kBProgress (1): 180/431 kBProgress (1): 184/431 kBProgress (1): 188/431 kBProgress (1): 192/431 kBProgress (1): 196/431 kBProgress (1): 200/431 kBProgress (1): 204/431 kBProgress (1): 208/431 kBProgress (1): 212/431 kBProgress (1): 217/431 kBProgress (1): 221/431 kBProgress (1): 225/431 kBProgress (1): 229/431 kBProgress (1): 233/431 kBProgress (1): 237/431 kBProgress (1): 241/431 kBProgress (1): 245/431 kBProgress (1): 249/431 kBProgress (1): 253/431 kBProgress (1): 258/431 kBProgress (1): 262/431 kBProgress (1): 266/431 kBProgress (1): 270/431 kBProgress (1): 274/431 kBProgress (1): 278/431 kBProgress (1): 282/431 kBProgress (1): 286/431 kBProgress (1): 290/431 kBProgress (1): 294/431 kBProgress (1): 298/431 kBProgress (1): 303/431 kBProgress (1): 307/431 kBProgress (1): 311/431 kBProgress (1): 315/431 kBProgress (1): 319/431 kBProgress (1): 323/431 kBProgress (1): 327/431 kBProgress (1): 331/431 kBProgress (1): 335/431 kBProgress (1): 339/431 kBProgress (1): 344/431 kBProgress (1): 348/431 kBProgress (1): 352/431 kBProgress (1): 356/431 kBProgress (1): 360/431 kBProgress (1): 364/431 kBProgress (1): 368/431 kBProgress (1): 372/431 kBProgress (1): 376/431 kBProgress (1): 380/431 kBProgress (1): 384/431 kBProgress (1): 389/431 kBProgress (1): 393/431 kBProgress (1): 397/431 kBProgress (1): 401/431 kBProgress (1): 405/431 kBProgress (1): 409/431 kBProgress (1): 413/431 kBProgress (1): 417/431 kBProgress (1): 421/431 kBProgress (1): 425/431 kBProgress (1): 430/431 kBProgress (1): 431 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar (431 kB at 5.0 MB/s)
+[INFO] Packaging webapp
+[INFO] Assembling webapp [webapp] in [/root/.jenkins/workspace/pipe/multi-module/webapp/target/webapp]
+[INFO] Processing war project
+[INFO] Copying webapp resources [/root/.jenkins/workspace/pipe/multi-module/webapp/src/main/webapp]
+[INFO] Webapp assembled in [50 msecs]
+[INFO] Building war: /root/.jenkins/workspace/pipe/multi-module/webapp/target/webapp.war
+[INFO] WEB-INF/web.xml already added, skipping
+[INFO] 
+[INFO] ----------< com.example.maven-samples:single-module-project >-----------
+[INFO] Building A Single Maven Module 1.0-SNAPSHOT                        [4/5]
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ single-module-project ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/single-module/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ single-module-project ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ single-module-project ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/single-module/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ single-module-project ---
+[INFO] Compiling 1 source file to /root/.jenkins/workspace/pipe/single-module/target/test-classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.11:test (default-test) @ single-module-project ---
+[INFO] Surefire report directory: /root/.jenkins/workspace/pipe/single-module/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.example.TestGreeter
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.119 sec
+
+Results :
+
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ single-module-project ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/single-module/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ single-module-project ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ single-module-project ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/single-module/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ single-module-project ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.11:test (default-test) @ single-module-project ---
+[INFO] Skipping execution of surefire because it has already been run for this configuration
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ single-module-project ---
+[INFO] Building jar: /root/.jenkins/workspace/pipe/single-module/target/single-module-project.jar
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:parent >------------------
+[INFO] Building Parent 1.0-SNAPSHOT                                       [5/5]
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary for Parent 1.0-SNAPSHOT:
+[INFO] 
+[INFO] Multi Module Project Parent ........................ SUCCESS [  0.007 s]
+[INFO] Server ............................................. SUCCESS [  5.542 s]
+[INFO] Webapp ............................................. SUCCESS [  1.014 s]
+[INFO] A Single Maven Module .............................. SUCCESS [  1.160 s]
+[INFO] Parent ............................................. SUCCESS [  0.000 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  8.047 s
+[INFO] Finished at: 2019-02-06T05:04:28Z
+[INFO] ------------------------------------------------------------------------
+[8mha:////4EmH+6WwNVKaPH9SEGmTOLd0aJ2THQ3wBr1MPyFKNGuQAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKoQQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN1TuT7W+AAAA[0m[Pipeline] sh
++ mvn package
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:server:jar:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter.
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:webapp:war:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter.
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:multi-module-parent:pom:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter. @ line 51, column 24
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:single-module-project:jar:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter. @ line 53, column 24
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[WARNING] The project com.example.maven-samples:multi-module-parent:pom:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[WARNING] The project com.example.maven-samples:single-module-project:jar:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[WARNING] The project com.example.maven-samples:parent:pom:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] Multi Module Project Parent                                        [pom]
+[INFO] Server                                                             [jar]
+[INFO] Webapp                                                             [war]
+[INFO] A Single Maven Module                                              [jar]
+[INFO] Parent                                                             [pom]
+[INFO] 
+[INFO] -----------< com.example.maven-samples:multi-module-parent >------------
+[INFO] Building Multi Module Project Parent 1.0-SNAPSHOT                  [1/5]
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:server >------------------
+[INFO] Building Server 1.0-SNAPSHOT                                       [2/5]
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ server ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/server/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ server ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ server ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/server/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ server ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.11:test (default-test) @ server ---
+[INFO] Surefire report directory: /root/.jenkins/workspace/pipe/multi-module/server/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.example.TestGreeter
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.097 sec
+
+Results :
+
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ server ---
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:webapp >------------------
+[INFO] Building Webapp 1.0-SNAPSHOT                                       [3/5]
+[INFO] --------------------------------[ war ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ webapp ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/webapp/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ webapp ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ webapp ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/webapp/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ webapp ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.11:test (default-test) @ webapp ---
+[INFO] No tests to run.
+[INFO] Surefire report directory: /root/.jenkins/workspace/pipe/multi-module/webapp/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+
+Results :
+
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- maven-war-plugin:2.2:war (default-war) @ webapp ---
+[INFO] Packaging webapp
+[INFO] Assembling webapp [webapp] in [/root/.jenkins/workspace/pipe/multi-module/webapp/target/webapp]
+[INFO] Processing war project
+[INFO] Copying webapp resources [/root/.jenkins/workspace/pipe/multi-module/webapp/src/main/webapp]
+[INFO] Webapp assembled in [49 msecs]
+[INFO] Building war: /root/.jenkins/workspace/pipe/multi-module/webapp/target/webapp.war
+[INFO] WEB-INF/web.xml already added, skipping
+[INFO] 
+[INFO] ----------< com.example.maven-samples:single-module-project >-----------
+[INFO] Building A Single Maven Module 1.0-SNAPSHOT                        [4/5]
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ single-module-project ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/single-module/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ single-module-project ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ single-module-project ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/single-module/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ single-module-project ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.11:test (default-test) @ single-module-project ---
+[INFO] Surefire report directory: /root/.jenkins/workspace/pipe/single-module/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.example.TestGreeter
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.072 sec
+
+Results :
+
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ single-module-project ---
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:parent >------------------
+[INFO] Building Parent 1.0-SNAPSHOT                                       [5/5]
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary for Parent 1.0-SNAPSHOT:
+[INFO] 
+[INFO] Multi Module Project Parent ........................ SUCCESS [  0.009 s]
+[INFO] Server ............................................. SUCCESS [  2.156 s]
+[INFO] Webapp ............................................. SUCCESS [  0.854 s]
+[INFO] A Single Maven Module .............................. SUCCESS [  0.420 s]
+[INFO] Parent ............................................. SUCCESS [  0.001 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.760 s
+[INFO] Finished at: 2019-02-06T05:04:34Z
+[INFO] ------------------------------------------------------------------------
+[8mha:////4CGLe35aNbuhjobsNXd1ON/PDhhex1npIjzcxRhln0GBAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICNBQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcr9Ntfu8AGHKGa5vgAAAA==[0m[Pipeline] }
+[8mha:////4I1AiiylJ37i690AsNBplIPhMvNx1rnMNvKcGhIqkUNoAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKiUNAgqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyj3da768AG0yz0FvgAAAA==[0m[Pipeline] // stage
+[8mha:////4CpYBU+OPMC7/vagJtJUwOC5sm39x5/zWj/5Iw4BOMgfAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BKWgpeYQjRXSIitZywwtMbIwT6y7YF5KKF/E1/oAhEhVb7ay0mucLqhThQNGJzmLvMbVeDGF0uYmJYn8JNImOzqIlTBSsUHZSZOxxQUVsYUlRwkrC2mIbKHl0DBvZ6buug0ZXnzjmbS+h9OYGDyhkNrOO/IU5wvY6mkT48/wVwDwwFDuGsmk+x+oNIF8KLcEAAAA=[0m[Pipeline] stage
+[8mha:////4O00ImmdP6rA4dIwQgJU+uLip0g6OutaN4+T13vB9e2PAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUKiNiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPpnFij8IAAAA=[0m[Pipeline] { (install  and deploy)
+[8mha:////4FekE+Em1wyZwUSr8JGtn1F2+yomNRse7PXBo0k8XrwEAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiAR2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBrANZ3i+AAAA[0m[Pipeline] sh
++ mvn install
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:server:jar:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter.
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:webapp:war:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter.
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:multi-module-parent:pom:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter. @ line 51, column 24
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.example.maven-samples:single-module-project:jar:1.0-SNAPSHOT
+[WARNING] Reporting configuration should be done in <reporting> section, not in maven-site-plugin <configuration> as reportPlugins parameter. @ line 53, column 24
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[WARNING] The project com.example.maven-samples:multi-module-parent:pom:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[WARNING] The project com.example.maven-samples:single-module-project:jar:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[WARNING] The project com.example.maven-samples:parent:pom:1.0-SNAPSHOT uses prerequisites which is only intended for maven-plugin projects but not for non maven-plugin projects. For such purposes you should use the maven-enforcer-plugin. See https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] Multi Module Project Parent                                        [pom]
+[INFO] Server                                                             [jar]
+[INFO] Webapp                                                             [war]
+[INFO] A Single Maven Module                                              [jar]
+[INFO] Parent                                                             [pom]
+[INFO] 
+[INFO] -----------< com.example.maven-samples:multi-module-parent >------------
+[INFO] Building Multi Module Project Parent 1.0-SNAPSHOT                  [1/5]
+[INFO] --------------------------------[ pom ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom
+Progress (1): 2.2/6.4 kBProgress (1): 5.0/6.4 kBProgress (1): 6.4 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom (6.4 kB at 16 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+Progress (1): 2.2/27 kBProgress (1): 5.0/27 kBProgress (1): 7.7/27 kBProgress (1): 10/27 kB Progress (1): 13/27 kBProgress (1): 16/27 kBProgress (1): 19/27 kBProgress (1): 21/27 kBProgress (1): 24/27 kBProgress (1): 27/27 kBProgress (1): 27 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar (27 kB at 817 kB/s)
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ multi-module-parent ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.pom
+Progress (1): 2.2/2.5 kBProgress (1): 2.5 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.pom (2.5 kB at 148 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.1/plexus-3.1.pom
+Progress (1): 2.2/19 kBProgress (1): 5.0/19 kBProgress (1): 7.8/19 kBProgress (1): 11/19 kB Progress (1): 13/19 kBProgress (1): 16/19 kBProgress (1): 19 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.1/plexus-3.1.pom (19 kB at 582 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.jar
+Progress (1): 2.2/230 kBProgress (1): 5.0/230 kBProgress (1): 7.7/230 kBProgress (1): 10/230 kB Progress (1): 13/230 kBProgress (1): 16/230 kBProgress (1): 19/230 kBProgress (1): 21/230 kBProgress (1): 24/230 kBProgress (1): 27/230 kBProgress (1): 30/230 kBProgress (1): 32/230 kBProgress (1): 36/230 kBProgress (1): 40/230 kBProgress (1): 45/230 kBProgress (1): 49/230 kBProgress (1): 53/230 kBProgress (1): 57/230 kBProgress (1): 61/230 kBProgress (1): 65/230 kBProgress (1): 69/230 kBProgress (1): 73/230 kBProgress (1): 77/230 kBProgress (1): 81/230 kBProgress (1): 85/230 kBProgress (1): 90/230 kBProgress (1): 94/230 kBProgress (1): 98/230 kBProgress (1): 102/230 kBProgress (1): 106/230 kBProgress (1): 110/230 kBProgress (1): 114/230 kBProgress (1): 118/230 kBProgress (1): 122/230 kBProgress (1): 126/230 kBProgress (1): 131/230 kBProgress (1): 135/230 kBProgress (1): 139/230 kBProgress (1): 143/230 kBProgress (1): 147/230 kBProgress (1): 151/230 kBProgress (1): 155/230 kBProgress (1): 159/230 kBProgress (1): 163/230 kBProgress (1): 167/230 kBProgress (1): 171/230 kBProgress (1): 176/230 kBProgress (1): 180/230 kBProgress (1): 184/230 kBProgress (1): 188/230 kBProgress (1): 192/230 kBProgress (1): 196/230 kBProgress (1): 200/230 kBProgress (1): 204/230 kBProgress (1): 208/230 kBProgress (1): 212/230 kBProgress (1): 217/230 kBProgress (1): 221/230 kBProgress (1): 225/230 kBProgress (1): 229/230 kBProgress (1): 230 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.jar (230 kB at 3.5 MB/s)
+[INFO] Installing /root/.jenkins/workspace/pipe/multi-module/pom.xml to /root/.m2/repository/com/example/maven-samples/multi-module-parent/1.0-SNAPSHOT/multi-module-parent-1.0-SNAPSHOT.pom
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:server >------------------
+[INFO] Building Server 1.0-SNAPSHOT                                       [2/5]
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ server ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/server/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ server ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ server ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/server/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ server ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.11:test (default-test) @ server ---
+[INFO] Surefire report directory: /root/.jenkins/workspace/pipe/multi-module/server/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.example.TestGreeter
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.125 sec
+
+Results :
+
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ server ---
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ server ---
+[INFO] Installing /root/.jenkins/workspace/pipe/multi-module/server/target/server.jar to /root/.m2/repository/com/example/maven-samples/server/1.0-SNAPSHOT/server-1.0-SNAPSHOT.jar
+[INFO] Installing /root/.jenkins/workspace/pipe/multi-module/server/pom.xml to /root/.m2/repository/com/example/maven-samples/server/1.0-SNAPSHOT/server-1.0-SNAPSHOT.pom
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:webapp >------------------
+[INFO] Building Webapp 1.0-SNAPSHOT                                       [3/5]
+[INFO] --------------------------------[ war ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ webapp ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/webapp/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ webapp ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ webapp ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/multi-module/webapp/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ webapp ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.11:test (default-test) @ webapp ---
+[INFO] No tests to run.
+[INFO] Surefire report directory: /root/.jenkins/workspace/pipe/multi-module/webapp/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+
+Results :
+
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- maven-war-plugin:2.2:war (default-war) @ webapp ---
+[INFO] Packaging webapp
+[INFO] Assembling webapp [webapp] in [/root/.jenkins/workspace/pipe/multi-module/webapp/target/webapp]
+[INFO] Processing war project
+[INFO] Copying webapp resources [/root/.jenkins/workspace/pipe/multi-module/webapp/src/main/webapp]
+[INFO] Webapp assembled in [46 msecs]
+[INFO] Building war: /root/.jenkins/workspace/pipe/multi-module/webapp/target/webapp.war
+[INFO] WEB-INF/web.xml already added, skipping
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ webapp ---
+[INFO] Installing /root/.jenkins/workspace/pipe/multi-module/webapp/target/webapp.war to /root/.m2/repository/com/example/maven-samples/webapp/1.0-SNAPSHOT/webapp-1.0-SNAPSHOT.war
+[INFO] Installing /root/.jenkins/workspace/pipe/multi-module/webapp/pom.xml to /root/.m2/repository/com/example/maven-samples/webapp/1.0-SNAPSHOT/webapp-1.0-SNAPSHOT.pom
+[INFO] 
+[INFO] ----------< com.example.maven-samples:single-module-project >-----------
+[INFO] Building A Single Maven Module 1.0-SNAPSHOT                        [4/5]
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:resources (default-resources) @ single-module-project ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/single-module/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ single-module-project ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.5:testResources (default-testResources) @ single-module-project ---
+[debug] execute contextualize
+[INFO] Using 'utf-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/.jenkins/workspace/pipe/single-module/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ single-module-project ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.11:test (default-test) @ single-module-project ---
+[INFO] Surefire report directory: /root/.jenkins/workspace/pipe/single-module/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.example.TestGreeter
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.125 sec
+
+Results :
+
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ single-module-project ---
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ single-module-project ---
+[INFO] Installing /root/.jenkins/workspace/pipe/single-module/target/single-module-project.jar to /root/.m2/repository/com/example/maven-samples/single-module-project/1.0-SNAPSHOT/single-module-project-1.0-SNAPSHOT.jar
+[INFO] Installing /root/.jenkins/workspace/pipe/single-module/pom.xml to /root/.m2/repository/com/example/maven-samples/single-module-project/1.0-SNAPSHOT/single-module-project-1.0-SNAPSHOT.pom
+[INFO] 
+[INFO] ------------------< com.example.maven-samples:parent >------------------
+[INFO] Building Parent 1.0-SNAPSHOT                                       [5/5]
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ parent ---
+[INFO] Installing /root/.jenkins/workspace/pipe/pom.xml to /root/.m2/repository/com/example/maven-samples/parent/1.0-SNAPSHOT/parent-1.0-SNAPSHOT.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary for Parent 1.0-SNAPSHOT:
+[INFO] 
+[INFO] Multi Module Project Parent ........................ SUCCESS [  1.678 s]
+[INFO] Server ............................................. SUCCESS [  1.883 s]
+[INFO] Webapp ............................................. SUCCESS [  0.731 s]
+[INFO] A Single Maven Module .............................. SUCCESS [  0.517 s]
+[INFO] Parent ............................................. SUCCESS [  0.011 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.213 s
+[INFO] Finished at: 2019-02-06T05:04:42Z
+[INFO] ------------------------------------------------------------------------
+[8mha:////4MNHcSlaOaT2gYiyqMr3IUBHEHOlnZFKUEPEymKz+DslAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN/E8fGG+AAAA[0m[Pipeline] sh
++ copy **/*.war /opt/apache-tomcat-8.5.37/webapps/
+/root/.jenkins/workspace/pipe@tmp/durable-f43c941b/script.sh: 1: /root/.jenkins/workspace/pipe@tmp/durable-f43c941b/script.sh: copy: not found
+[8mha:////4EjaUcb9A3bqo8lPSL0F5b1+1/1lmHMD78TQCCzIg9GvAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigUSDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQFAXH9DvgAAAA==[0m[Pipeline] }
+[8mha:////4NQQpUS0m3jqtV5QarXzEFjNBN82/H0nq5ybtKGdbIsMAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyk8bCsbJlaDwBJogQ5n8CRFJ5Iq/mHUQzY+UWO/u2ec8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALP3Cep2/6n2DXO/JP++AAAA[0m[Pipeline] // stage
+[8mha:////4DCL9Dn1sTzFk2xxX++RUUwesSt/11MTLof3RNtQoNMMAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKREAUSoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN/uBdnuA+oSoWS9AAAA[0m[Pipeline] }
+[8mha:////4A6+KIHxzZM2UPTpYUh79nlUDx3eatV+QLqq5eCRwMuwAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRoEKIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsP+a6lx70AAAA=[0m[Pipeline] // node
+[8mha:////4H8ANU9HEcTtoJuapjWS/csK2QcOEBoIVDlLNqtNIx8XAAAAoh+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMJBUCIqWisNLzCJMU6su2BfSCpexNf4AxGRqNhqZ5p5vbFMEUeOTjWWWk+p8qoLvZueGji218CDaviiKqbEwarSDiXX9jRjyWIxL8ux0FhZqgInT06w1o15mCIYcsVZ4uQOGrmv73gi01NZTJQvjBGbW18npl/nbwBj1wny/VaQ7T67L+52vQAAAA==[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 127
+Finished: FAILURE

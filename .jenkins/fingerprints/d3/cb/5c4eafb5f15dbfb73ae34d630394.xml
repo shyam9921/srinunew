@@ -1,0 +1,33 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-02-05 15:49:12.10 UTC</timestamp>
+  <md5sum>d3cb5c4eafb5f15dbfb73ae34d630394</md5sum>
+  <fileName>org.eclipse.sisu:org.eclipse.sisu.inject-0.3.2.jar</fileName>
+  <usages>
+    <entry>
+      <string>package</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>maven/net.swindle:maven-code-quality-pom</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>test/net.swindle:maven-code-quality-pom</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>package/net.swindle:maven-code-quality-pom</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>test</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

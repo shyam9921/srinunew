@@ -1,0 +1,104 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.maven.MavenModuleSetBuild plugin="maven-plugin@3.2">
+  <actions>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters>
+        <hudson.model.StringParameterValue>
+          <name>maven</name>
+          <description></description>
+          <value>compile</value>
+        </hudson.model.StringParameterValue>
+      </parameters>
+      <parameterDefinitionNames>
+        <string>maven</string>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>vishnu9921</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.plugins.git.util.BuildDetails plugin="git@4.0.0-rc">
+      <build>
+        <marked plugin="git-client@3.0.0-rc">
+          <sha1>dac1366f951060a6e1b1356cb98be41b1a804c6a</sha1>
+          <branches class="list">
+            <hudson.plugins.git.Branch>
+              <sha1 reference="../../../sha1"/>
+              <name>refs/remotes/origin/master</name>
+            </hudson.plugins.git.Branch>
+          </branches>
+        </marked>
+        <revision reference="../marked"/>
+        <hudsonBuildNumber>2</hudsonBuildNumber>
+      </build>
+      <scmName></scmName>
+      <remoteUrls>
+        <string>https://github.com/shyam9921/mvn_bkp.git</string>
+      </remoteUrls>
+    </hudson.plugins.git.util.BuildDetails>
+    <hudson.plugins.git.GitTagAction plugin="git@4.0.0-rc">
+      <tags class="hudson.util.CopyOnWriteMap$Tree">
+        <entry>
+          <string>refs/remotes/origin/master</string>
+          <list/>
+        </entry>
+      </tags>
+      <ws>/root/.jenkins/workspace/buil</ws>
+    </hudson.plugins.git.GitTagAction>
+    <hudson.scm.SCMRevisionState_-None/>
+    <hudson.maven.reporters.MavenAggregatedArtifactRecord>
+      <records/>
+      <parent reference="../../.."/>
+    </hudson.maven.reporters.MavenAggregatedArtifactRecord>
+    <hudson.tasks.Fingerprinter_-FingerprintAction>
+      <record>
+        <entry>
+          <string>SATHYA:myproj.war</string>
+          <string>e38f2d44789470457d9c6ee4d0959a40</string>
+        </entry>
+        <entry>
+          <string>SATHYA:DEVOPS:pom.xml</string>
+          <string>75325e6e77674237b9e4f87a225874b1</string>
+        </entry>
+        <entry>
+          <string>javax.activation:activation-1.1.jar</string>
+          <string>8ae38e87cd4f86059c0294a8fe3e0b18</string>
+        </entry>
+        <entry>
+          <string>javax:javaee-api-7.0.jar</string>
+          <string>4574e0b1f14590cb3280d37a6cedc27d</string>
+        </entry>
+        <entry>
+          <string>com.sun.mail:javax.mail-1.5.0.jar</string>
+          <string>dabf8c0f32c7f6eb5c87aebd53e07fce</string>
+        </entry>
+      </record>
+    </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.tasks.MailMessageIdAction plugin="mailer@1.23">
+      <messageId>&lt;487699216.28.1549452811607.JavaMail.root@ip-172-31-88-35&gt;</messageId>
+    </hudson.tasks.MailMessageIdAction>
+  </actions>
+  <queueId>18</queueId>
+  <timestamp>1549452797682</timestamp>
+  <startTime>1549452797684</startTime>
+  <result>SUCCESS</result>
+  <duration>13174</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>/root/.jenkins/workspace/buil</workspace>
+  <hudsonVersion>2.163</hudsonVersion>
+  <scm class="hudson.plugins.git.GitChangeLogParser" plugin="git@4.0.0-rc">
+    <authorOrCommitter>false</authorOrCommitter>
+    <showEntireCommitSummaryInChanges>true</showEntireCommitSummaryInChanges>
+  </scm>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+  <mavenVersionUsed>3.6.0</mavenVersionUsed>
+</hudson.maven.MavenModuleSetBuild>

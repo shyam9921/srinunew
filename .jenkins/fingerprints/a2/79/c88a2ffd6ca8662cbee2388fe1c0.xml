@@ -1,0 +1,33 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-02-05 15:49:11.788 UTC</timestamp>
+  <md5sum>a279c88a2ffd6ca8662cbee2388fe1c0</md5sum>
+  <fileName>org.hamcrest:java-hamcrest-2.0.0.0.jar</fileName>
+  <usages>
+    <entry>
+      <string>package</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>maven/net.swindle:maven-code-quality-pom</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>test/net.swindle:maven-code-quality-pom</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>package/net.swindle:maven-code-quality-pom</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>test</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

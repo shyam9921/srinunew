@@ -1,0 +1,29 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@2.31">
+  <actions/>
+  <description>pipeline</description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@2.63">
+    <script>node{
+    stage(&apos;SCM Checkout&apos;){
+        git &apos;https://github.com/shyam9921/mvn_bkp.git&apos;
+    }
+    stage(&apos;clean-compile&apos;){
+        sh &apos;mvn clean&apos;
+        sh &apos;mvn compile&apos;
+    }
+    stage(&apos;test-package&apos;){
+        sh &apos;mvn test verify&apos;
+        sh &apos;mvn package&apos;
+    }
+    stage(&apos;install  and deploy&apos;){
+        sh &apos;mvn install&apos;
+        sh &apos;cp **/*.war /opt/apache-tomcat-8.5.37/webapps/&apos;
+    }
+}</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>

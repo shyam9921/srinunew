@@ -1,0 +1,115 @@
+<l:dependencies xmlns:l='licenses' version='0.6.3' artifactId='jira-trigger-plugin' groupId='org.jenkins-ci.plugins'>
+  <l:dependency version='0.6.3' artifactId='jira-trigger-plugin' groupId='org.jenkins-ci.plugins' name='JIRA Trigger Plugin' url='http://wiki.jenkins-ci.org/display/JENKINS/JIRA+Trigger+Plugin'>
+    <l:description>JIRA Trigger</l:description>
+  </l:dependency>
+  <l:dependency version='3.0.0' artifactId='jira-rest-java-client-core' groupId='com.atlassian.jira' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='4.0' artifactId='guice-multibindings' groupId='com.google.inject.extensions' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='3.0.0' artifactId='jira-rest-java-client-api' groupId='com.atlassian.jira' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='1.5' artifactId='jersey-client' groupId='com.sun.jersey' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='1.5' artifactId='jersey-json' groupId='com.sun.jersey' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='1.6' artifactId='joda-time' groupId='joda-time' name='Joda time' url='http://joda-time.sourceforge.net'>
+    <l:description>Date and time library to replace JDK date handling.</l:description>
+    <l:license url='http://www.apache.org/licenses/' name='Apache 2' />
+  </l:dependency>
+  <l:dependency version='0.13.2' artifactId='atlassian-httpclient-apache-httpcomponents' groupId='com.atlassian.httpclient' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='0.13.2' artifactId='atlassian-httpclient-api' groupId='com.atlassian.httpclient' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='2.2.0' artifactId='atlassian-event' groupId='com.atlassian.event' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='2.4.0' artifactId='atlassian-util-concurrent' groupId='com.atlassian.util.concurrent' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='4.1.2' artifactId='httpmime' groupId='org.apache.httpcomponents' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='2.5.6' artifactId='spring-context' groupId='org.springframework' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='2.5.6' artifactId='spring-beans' groupId='org.springframework' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='2.5.6' artifactId='spring-core' groupId='org.springframework' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='4.0-beta3-atlassian-1' artifactId='httpasyncclient-cache' groupId='org.apache.httpcomponents' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='4.2.1-atlassian-2' artifactId='httpclient-cache' groupId='org.apache.httpcomponents' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='4.0-beta3-atlassian-1' artifactId='httpasyncclient' groupId='org.apache.httpcomponents' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='4.2.1-atlassian-2' artifactId='httpclient' groupId='org.apache.httpcomponents' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='1.5' artifactId='jersey-core' groupId='com.sun.jersey' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='1.1' artifactId='jettison' groupId='org.codehaus.jettison' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='2.2.3' artifactId='jaxb-impl' groupId='com.sun.xml.bind' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='1.5.5' artifactId='jackson-jaxrs' groupId='org.codehaus.jackson' name='JAX-RS provider for JSON content type' url='http://jackson.codehaus.org'>
+    <l:description>Jax-RS provider for JSON content type, based on 
+Jackson JSON processor's data binding functionality.
+</l:description>
+    <l:license url='http://www.apache.org/licenses/LICENSE-2.0.txt' name='The Apache Software License, Version 2.0' />
+    <l:license url='http://www.fsf.org/licensing/licenses/lgpl.txt' name='GNU Lesser General Public License (LGPL), Version 2.1' />
+  </l:dependency>
+  <l:dependency version='1.5.5' artifactId='jackson-xc' groupId='org.codehaus.jackson' name='Xml Compatibility extensions for Jackson' url='http://jackson.codehaus.org'>
+    <l:description>Extensions that provide interoperability support for
+Jackson JSON processor's data binding functionality.
+</l:description>
+    <l:license url='http://www.apache.org/licenses/LICENSE-2.0.txt' name='The Apache Software License, Version 2.0' />
+    <l:license url='http://www.fsf.org/licensing/licenses/lgpl.txt' name='GNU Lesser General Public License (LGPL), Version 2.1' />
+  </l:dependency>
+  <l:dependency version='1.5.5' artifactId='jackson-mapper-asl' groupId='org.codehaus.jackson' name='Data Mapper for Jackson' url='http://jackson.codehaus.org'>
+    <l:description>Data Mapper package is a high-performance data binding package
+built on Jackson JSON processor
+</l:description>
+    <l:license url='http://www.apache.org/licenses/LICENSE-2.0.txt' name='The Apache Software License, Version 2.0' />
+  </l:dependency>
+  <l:dependency version='1.5.5' artifactId='jackson-core-asl' groupId='org.codehaus.jackson' name='Jackson' url='http://jackson.codehaus.org'>
+    <l:description>Jackson is a high-performance JSON processor (parser, generator)
+</l:description>
+    <l:license url='http://www.apache.org/licenses/LICENSE-2.0.txt' name='The Apache Software License, Version 2.0' />
+  </l:dependency>
+  <l:dependency version='2.7.0' artifactId='sal-api' groupId='com.atlassian.sal' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='4.2.2' artifactId='httpcore-nio' groupId='org.apache.httpcomponents' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='4.2.2' artifactId='httpcore' groupId='org.apache.httpcomponents' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='2.2.2' artifactId='jaxb-api' groupId='javax.xml.bind' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='0.13.2' artifactId='atlassian-httpclient-spi' groupId='com.atlassian.httpclient' name='' url=''>
+    <l:description></l:description>
+  </l:dependency>
+  <l:dependency version='1.1' artifactId='activation' groupId='javax.activation' name='JavaBeans Activation Framework (JAF)' url='http://java.sun.com/products/javabeans/jaf/index.jsp'>
+    <l:description>
+    JavaBeans Activation Framework (JAF) is a standard extension to the Java platform that lets you take advantage of standard services to: determine the type of an arbitrary piece of data; encapsulate access to it; discover the operations available on it; and instantiate the appropriate bean to perform the operation(s).
+  </l:description>
+    <l:license url='https://glassfish.dev.java.net/public/CDDLv1.0.html' name='Common Development and Distribution License (CDDL) v1.0' />
+  </l:dependency>
+</l:dependencies>

@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: jdelgado
+Build-Jdk: 1.8.0_131
+Extension-Name: github-scm-filter-jira-validator
+Specification-Title: Adds a filtering trait according to the pull requ
+ est title (enforcing it contains a single and open jira ticket) to an
+  existing GitHub Branch Source Plugin configuration.
+Implementation-Title: github-scm-filter-jira-validator
+Implementation-Version: 0.1.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: github-scm-filter-jira-validator
+Long-Name: GitHub Jira Validator SCM Filter Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/GitHub+Jira+Validator
+ +SCM+Filter+Plugin
+Plugin-Version: 0.1.0
+Hudson-Version: 2.32.3
+Jenkins-Version: 2.32.3
+Plugin-Dependencies: github-branch-source:2.2.3,jira:2.4.2
+Plugin-Developers: Javier Delgado:witokodoria:witokondoria@gmail.com
+

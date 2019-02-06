@@ -1,0 +1,33 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-02-05 15:49:11.818 UTC</timestamp>
+  <md5sum>0dc414c10b79fd21b5c67de8fd661ece</md5sum>
+  <fileName>org.apache.maven.skins:maven-fluido-skin-1.6.jar</fileName>
+  <usages>
+    <entry>
+      <string>package</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>maven/net.swindle:maven-code-quality-pom</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>test/net.swindle:maven-code-quality-pom</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>package/net.swindle:maven-code-quality-pom</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>test</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,139 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-build plugin="workflow-job@2.31">
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>vishnu9921</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <org.jenkinsci.plugins.workflow.libs.LibrariesAction plugin="workflow-cps-global-lib@2.13">
+      <libraries/>
+    </org.jenkinsci.plugins.workflow.libs.LibrariesAction>
+    <hudson.plugins.git.util.BuildDetails plugin="git@4.0.0-rc">
+      <build>
+        <marked plugin="git-client@3.0.0-rc">
+          <sha1>4d47c7d9bd4ca5ea765d78c76020dd71cf133e8b</sha1>
+          <branches class="list">
+            <hudson.plugins.git.Branch>
+              <sha1 reference="../../../sha1"/>
+              <name>refs/remotes/origin/master</name>
+            </hudson.plugins.git.Branch>
+          </branches>
+        </marked>
+        <revision reference="../marked"/>
+        <hudsonBuildNumber>4</hudsonBuildNumber>
+      </build>
+      <scmName></scmName>
+      <remoteUrls>
+        <string>https://github.com/shyam9921/maven-samples.git</string>
+      </remoteUrls>
+    </hudson.plugins.git.util.BuildDetails>
+    <hudson.plugins.git.GitTagAction plugin="git@4.0.0-rc">
+      <tags class="hudson.util.CopyOnWriteMap$Tree">
+        <entry>
+          <string>refs/remotes/origin/master</string>
+          <list/>
+        </entry>
+      </tags>
+      <ws>/root/.jenkins/workspace/pipe</ws>
+    </hudson.plugins.git.GitTagAction>
+    <org.jenkinsci.plugins.workflow.steps.scm.MultiSCMRevisionState plugin="workflow-scm-step@2.7">
+      <revisionStates>
+        <entry>
+          <string>git https://github.com/shyam9921/maven-samples.git</string>
+          <hudson.scm.SCMRevisionState_-None/>
+        </entry>
+      </revisionStates>
+    </org.jenkinsci.plugins.workflow.steps.scm.MultiSCMRevisionState>
+  </actions>
+  <queueId>11</queueId>
+  <timestamp>1549429673241</timestamp>
+  <startTime>1549429673244</startTime>
+  <result>FAILURE</result>
+  <duration>27675</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <execution class="org.jenkinsci.plugins.workflow.cps.CpsFlowExecution">
+    <result>FAILURE</result>
+    <script>node{
+    stage(&apos;SCM Checkout&apos;){
+        git &apos;https://github.com/shyam9921/maven-samples.git&apos;
+    }
+    stage(&apos;clean-compile&apos;){
+        sh &apos;mvn clean&apos;
+        sh &apos;mvn compile&apos;
+    }
+    stage(&apos;test-package&apos;){
+        sh &apos;mvn test verify&apos;
+        sh &apos;mvn package&apos;
+    }
+    stage(&apos;install  and deploy&apos;){
+        sh &apos;mvn install&apos;
+        sh &apos;cp **/*.jar /opt/apache-tomcat-8.5.37/webapps/&apos;
+    }
+}</script>
+    <loadedScripts class="map"/>
+    <durabilityHint>MAX_SURVIVABILITY</durabilityHint>
+    <timings class="map">
+      <entry>
+        <string>flowNode</string>
+        <long>185535351</long>
+      </entry>
+      <entry>
+        <string>classLoad</string>
+        <long>10141984</long>
+      </entry>
+      <entry>
+        <string>run</string>
+        <long>728842692</long>
+      </entry>
+      <entry>
+        <string>parse</string>
+        <long>40021608</long>
+      </entry>
+      <entry>
+        <string>saveProgram</string>
+        <long>70850547</long>
+      </entry>
+    </timings>
+    <sandbox>true</sandbox>
+    <iota>30</iota>
+    <head>1:30</head>
+    <done>true</done>
+    <resumeBlocked>false</resumeBlocked>
+  </execution>
+  <completed>true</completed>
+  <checkouts class="hudson.util.PersistedList">
+    <org.jenkinsci.plugins.workflow.job.WorkflowRun_-SCMCheckout>
+      <scm class="hudson.plugins.git.GitSCM" plugin="git@4.0.0-rc">
+        <configVersion>2</configVersion>
+        <userRemoteConfigs>
+          <hudson.plugins.git.UserRemoteConfig>
+            <url>https://github.com/shyam9921/maven-samples.git</url>
+          </hudson.plugins.git.UserRemoteConfig>
+        </userRemoteConfigs>
+        <branches class="singleton-list">
+          <hudson.plugins.git.BranchSpec>
+            <name>*/master</name>
+          </hudson.plugins.git.BranchSpec>
+        </branches>
+        <doGenerateSubmoduleConfigurations>false</doGenerateSubmoduleConfigurations>
+        <submoduleCfg class="empty-list"/>
+        <extensions>
+          <hudson.plugins.git.extensions.impl.LocalBranch>
+            <localBranch>master</localBranch>
+          </hudson.plugins.git.extensions.impl.LocalBranch>
+        </extensions>
+      </scm>
+      <node></node>
+      <workspace>/root/.jenkins/workspace/pipe</workspace>
+      <changelogFile>/root/.jenkins/jobs/pipe/builds/4/changelog0.xml</changelogFile>
+      <pollingBaseline class="hudson.scm.SCMRevisionState$None" reference="../../../actions/org.jenkinsci.plugins.workflow.steps.scm.MultiSCMRevisionState/revisionStates/entry/hudson.scm.SCMRevisionState_-None"/>
+    </org.jenkinsci.plugins.workflow.job.WorkflowRun_-SCMCheckout>
+  </checkouts>
+</flow-build>

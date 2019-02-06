@@ -1,0 +1,37 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<maven2 plugin="maven-plugin@3.2">
+  <actions/>
+  <keepDependencies>false</keepDependencies>
+  <properties>
+    <hudson.plugins.disk__usage.DiskUsageProperty plugin="disk-usage@0.28"/>
+  </properties>
+  <scm class="hudson.scm.NullSCM"/>
+  <canRoam>false</canRoam>
+  <disabled>false</disabled>
+  <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
+  <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+  <triggers/>
+  <concurrentBuild>false</concurrentBuild>
+  <reporters/>
+  <displayName>myproj</displayName>
+  <version>1.0</version>
+  <packaging>war</packaging>
+  <relativePath></relativePath>
+  <dependencies>
+    <dependency>
+      <groupId>org.wildfly.plugins</groupId>
+      <artifactId>wildfly-maven-plugin</artifactId>
+      <version>1.0.2.Final</version>
+      <plugin>true</plugin>
+    </dependency>
+    <dependency>
+      <groupId>javax</groupId>
+      <artifactId>javaee-api</artifactId>
+      <version>7.0</version>
+      <plugin>false</plugin>
+      <scope>provided</scope>
+      <type>jar</type>
+    </dependency>
+  </dependencies>
+  <children/>
+</maven2>

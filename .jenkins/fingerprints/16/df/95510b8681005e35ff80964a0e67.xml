@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-02-06 11:11:06.799 UTC</timestamp>
+  <original>
+    <name>buil/SATHYA:DEVOPS</name>
+    <number>1</number>
+  </original>
+  <md5sum>16df95510b8681005e35ff80964a0e67</md5sum>
+  <fileName>SATHYA:myproj.war</fileName>
+  <usages>
+    <entry>
+      <string>buil</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>buil/SATHYA:DEVOPS</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
